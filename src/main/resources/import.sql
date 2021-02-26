@@ -1,2 +1,10 @@
 insert into produto (nome, descricao, valor) values ('Notebook Sansung', 'i3', '5000.00');
 insert into produto (nome, descricao, valor) values ('Notebook Sansung', 'i5', '5000.00');
+insert into produto (nome, descricao, valor) values ('Notebook Dell', 'i5', '4000.00');
+insert into produto (nome, descricao, valor) values ('Notebook Dell', 'i3', '5000.00');
+insert into produto (nome, descricao, valor) values ('Notebook HP', 'i5', '3000.00');
+insert into produto (nome, descricao, valor) values ('Notebook HP', 'i3', '5000.00');
+insert into produto (nome, descricao, valor) values ('Monitor Sansung', 'i5', '500.00');
+insert into produto (nome, descricao, valor) values ('Celular Sansung', 's7', '1000.00');
+insert into produto (nome, descricao, valor) values ('Celular Sansung', 's8', '2000.00');
+insert into produto (nome, descricao, valor) values ('Celular Sansung', 's9', '2500.00');
